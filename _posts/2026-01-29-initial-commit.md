@@ -7,9 +7,9 @@ My intention, going forward, is to catalog my journey of learning to be a better
 
 I have no idea where this journey will take me, nor what I will do during each leg of the journey, but I will do my best to explain each new problem I encounter, and how I go about solving them.  
 With any luck, hopefully someone later on will avoid making any of the mistakes I made, because they once read an obscure blog by a former welder who just wanted to work in an industry where
-the people don't completely suck the life out of you.  
-This will not be a terribly insightful blog.  
+the people don't completely suck the life out of you. 
 
+This will not be a terribly insightful blog.  
 You will not learn what it takes to balance on the cutting edge of technology.  
 In fact, I will frequently trip over the cutting edge, and probably knock all of the good china off of the tables surrounding me.  
 Don't ask why I'm surrounded by tables covered in good china. It's a whole thing ...  
