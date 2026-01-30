@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Initital Commit"
+---
+
 ## A new developer blog?  
 It's more likely than you think ...  
 My name is Lawrence.  
