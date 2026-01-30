@@ -1,13 +1,12 @@
 ## A new developer blog?  
 It's more likely than you think ...  
 My name is Lawrence.  
-I'm a recent graduate from college with a fancy diploma, and allegedly a specialization in software development.  
+I'm a recent college graduate with a fancy diploma, and allegedly a specialization in software development.  
 It was either that, or hog tie myself with an ethernet cable and hide in a closet, because after several courses involving networking, I still don't understand what an SSL socket is.  
-My intention, going forward, is to catalog my journey of learning to be a better software developer, and to document the *many* painful mistakes I will make as I go, and hopefully make it interesting to read along the way.  
+My intention, going forward, is to catalog my journey of learning to be a better software developer, and to document the *many* painful mistakes I will make as I go. Hopefully you, the reader, will find it interesting to read along the way.  
 
-I have no idea where this journey will take me, nor what I will do during each leg of the journey, but I will do my best to explain each new problem I encounter, and how I go about solving them.  
-With any luck, hopefully someone later on will avoid making any of the mistakes I made, because they once read an obscure blog by a former welder who just wanted to work in an industry where
-the people don't completely suck the life out of you.  
+I have no idea where this journey will take me, nor what I will do during each leg of the journey, but I will do my best to explain each new problem I encounter, as I encounter them, and how I go about solving them.  
+With any luck, hopefully someone later on will avoid making some of the mistakes I made, because they once read an obscure blog by a former welder.  
 I intend to focus the majority of my learning on Game Maker Language (GML), Game Maker Studio's scripting language which is the engine I am using to create my first indie video game, "Robo Gauntlet". I will work with Kotlin and Jetpack Compose for developing android based apps, and React in Javascript for web apps. I will, of course, dabble in other frameworks and libraries as the need for them arises. Most certainly, I will fail to recognize the need to utilize a given framework or resource until I am knees deep into a project that could have benefitted from them.  
 Buckle up because that will be a recurring theme here!  
 
