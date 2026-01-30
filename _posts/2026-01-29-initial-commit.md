@@ -7,6 +7,6 @@ This will not be a terribly insightful blog.
 You will not learn what it takes to balance on the cutting edge of technology.  
 In fact, I will frequently trip over the cutting edge, and probably knock all of the good china off of the tables surrounding me.  
 Don't ask why I'm surrounded by tables covered in good china. It's a whole thing ...  
-But if you have any interest in watching someone fail repeatedly until there's literally no possible way to fail again (and then manage to find one more) before succeeding, then stick around.
+But if you have any interest in watching someone fail repeatedly until there's literally no possible way to fail again (and then manage to find one more) before succeeding, then stick around.  
 It might be entertaining, and I could use the company.  
 The cats are getting sick of listening to all of my jokes, and I need a new audience.
