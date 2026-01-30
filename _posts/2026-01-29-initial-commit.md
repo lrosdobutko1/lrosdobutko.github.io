@@ -1,0 +1,12 @@
+## A new developer blog?  
+It's more likely than you think ...  
+My intention, going forward, is to catalog my journey of learning and to document the *many* painful mistakes I will make as I go, and hopefully make it interesting to read along the way.
+With any luck, hopefully someone later on will avoid making one of these mistakes, because they once read an obscure blog by a former welder who just wanted to work in an industry where
+the people don't completely suck the life out of you every opportunity they get.  
+This will not be a terribly insightful blog.  
+You will not learn what it takes to balance on the cutting edge of technology.  
+In fact, I will frequently trip over the cutting edge, and probably knock all of the good china off of the tables surrounding me.  
+Don't ask why I'm surrounded by tables covered in good china. It's a whole thing ...  
+But if you have any interest in watching someone fail repeatedly until there's literally no possible way to fail again (and then manage to find one more) before succeeding, then stick around.
+It might be entertaining, and I could use the company.  
+The cats are getting sick of listening to all of my jokes, and I need a new audience.
